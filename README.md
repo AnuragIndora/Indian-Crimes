@@ -1,7 +1,3 @@
-Here is the updated `README.md` file with the "Crime Type Classification" section removed:
-
----
-
 # Crime Dataset India - Data Preprocessing, Exploratory Data Analysis, and Machine Learning
 
 This repository contains the code and analysis performed on the `crime_dataset_india.csv` file, focusing on data preprocessing, exploratory data analysis (EDA), and solving specific machine learning problems related to crime data from India.
@@ -291,5 +287,3 @@ These libraries provide the foundation for performing data preprocessing, explor
      - Look for saved model files, predictions, and performance summaries.
 
 ---
-
-Feel free to adjust any parts of this `README.md` to better fit your project or additional details you may have.
